@@ -1,8 +1,8 @@
-# Hyperedge-Centric Community Search: An Efficient Approach for High-Dimension Network Analysis
+# Hyperedge-Centric Community Search for Hypergraphs
 
 ## Introduction
 
-This repository contains the source code for the Hyperedge-Centric Community Search: An Efficient Approach for High-Dimension Network Analysis. 
+This repository contains the source code for Hyperedge-Centric Community Search for Hypergraphs.
 Below is a detailed description of the function of each directory and file.
 
 ## Experimental Dataset
